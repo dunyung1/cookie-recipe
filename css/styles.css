@@ -1,0 +1,20 @@
+body{
+  background-color: #FF530D;
+}
+h1 {
+  color: #7F0000;
+  text-align: center;
+}
+h2 {
+  color: #C73C3C;
+  font-style: italic;
+  text-align: center;
+}
+ul {
+  font-size: 1.5em;
+  font-style: italic;
+  font-family: serif;
+}
+ol{
+  line-height: 1.5em;
+}
